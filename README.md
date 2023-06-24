@@ -21,7 +21,7 @@
 
 <tr>
 <td>食物Bot.zip</td>
-<td>The archive file exported from Dialogflow. It can be imported back to Dialogflow and restore the full design</td>
+<td>The archive file exported from Dialogflow. It can be imported back to Dialogflow and restore the full design.</td>
 </tr>
 
 </table>
